@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pet"
+    }
+  },
+  "defaultProject": "pet",
+  "cli": {
+    "analytics": false
+  }
 }
